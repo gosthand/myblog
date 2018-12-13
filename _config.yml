@@ -86,3 +86,9 @@ search:
   field: post
   format: html
   limit: 10000
+
+# hexo-admin authentification
+admin:
+  username: Gosthand
+  password_hash: $2a$10$cyWd2DhGKST8wQM3moo/1uY79/neAZOyAUNZvMcjHhJsfT8qPJEK.
+  secret: my super secret phrase
