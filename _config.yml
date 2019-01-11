@@ -15,7 +15,7 @@ timezone:
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://www.gosthand.com
 root: /
-permalink: :2019/:12/:12/:title/
+permalink: :year/:month/:day/:title/
 permalink_defaults:
 
 # Directory
@@ -89,7 +89,7 @@ search:
 
 
 server:
-  port: 80
+  port: 8088
   compress: true
   header: true
 
