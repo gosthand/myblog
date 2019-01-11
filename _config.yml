@@ -89,7 +89,7 @@ search:
 
 
 server:
-  port: 80
+  port: 6528
   compress: true
   header: true
 
